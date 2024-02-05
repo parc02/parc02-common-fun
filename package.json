@@ -1,0 +1,26 @@
+{
+  "name": "parc02-common-fun",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parc02/parc02-common-fun.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "function",
+    "export",
+    "module"
+  ],
+  "author": "parc02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parc02/parc02-common-fun/issues"
+  },
+  "homepage": "https://github.com/parc02/parc02-common-fun#readme"
+}
